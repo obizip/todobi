@@ -25,7 +25,7 @@ func calcDate(month, day int) time.Time {
 }
 
 // NewTodo creates a item by the information of the task.
-func NewTodo(content string, month, day int) *Task {
+func NewTask(content string, month, day int) *Task {
 	t := Task{
 		content: content,
 		date:    calcDate(month, day),
