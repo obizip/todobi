@@ -1,4 +1,4 @@
-// Package task provides methods to manage a todolist.
+// Package task provides structs and methods to manage a todo.
 package task
 
 import "time"
