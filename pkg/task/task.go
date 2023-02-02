@@ -1,4 +1,5 @@
-package tasklist
+// Package task provides methods to manage a todolist.
+package task
 
 import "time"
 

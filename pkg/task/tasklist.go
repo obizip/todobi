@@ -1,5 +1,4 @@
-// Package tasklist provides methods to manage a todolist.
-package tasklist
+package task
 
 // TaskList listes tasks.
 type TaskList struct {
